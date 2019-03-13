@@ -6,7 +6,8 @@
  */
 import Foundation
 
-var str = "Hello, playground"
+var str = "Hello, playground - this is subscription"
+
 
 
 //: [Next](@next)
