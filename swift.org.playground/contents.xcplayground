@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' executeOnSourceChanges='false'>
+    <pages>
+        <page name='1. The Basics'/>
+        <page name='2. Basic Operators'/>
+        <page name='3. Strings and Characters'/>
+        <page name='4. Collection Types'/>
+        <page name='5. Control Flow'/>
+        <page name='6. Functions'/>
+        <page name='7. Closures'/>
+        <page name='8. Enumerations'/>
+        <page name='_8.1 Bob_ Static and Mutating Methods with self'/>
+        <page name='_8.2 Bob_ Nested Enum'/>
+        <page name='_8.3 Bob_ Protocol Oriented Enum'/>
+        <page name='_8.4 Bob_ Recursive Enum'/>
+        <page name='_8.5 Bob_Generic Enum'/>
+        <page name='_8.6 Bob_Error Handling with Enum Result Type'/>
+        <page name='_8.7 Result Type'/>
+        <page name='9. Structures and Classes'/>
+        <page name='10. Properties'/>
+        <page name='11. Methods'/>
+        <page name='12. Subscripts'/>
+        <page name='13. Inheritance'/>
+        <page name='14. Initialization'/>
+        <page name='15. Deinitialization'/>
+        <page name='16. Optional Chaining'/>
+        <page name='17. Error Handling'/>
+        <page name='18. Type Casting'/>
+        <page name='19. Nested Types'/>
+        <page name='20. Extensions'/>
+        <page name='21. Protocols'/>
+        <page name='22. Generics'/>
+        <page name='23. Automatic Reference Counting'/>
+        <page name='24. Memory Safety'/>
+        <page name='25. Access Control'/>
+        <page name='26. Advanced Operators'/>
+        <page name='What&apos;s new in swift 4'/>
+        <page name='_1 Access Control'/>
+        <page name='_2 Keypath'/>
+        <page name='_3 Generic Subscript'/>
+        <page name='_4 Intro to Codable'/>
+    </pages>
+</playground>
