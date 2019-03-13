@@ -6,7 +6,7 @@
  */
 import Foundation
 
-var str = "Hello, playground - this is subscription"
+var str = "Hello, playground - this is subscriptiona"
 
 
 
